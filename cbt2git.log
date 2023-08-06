@@ -1,0 +1,15 @@
+2023-08-06 05:04:33.072529 - Initialized conversion of CBT531
+2023-08-06 05:04:33.142145 - Received CBT.V505.FILE531.PDS from FILE531.XMI 
+2023-08-06 05:04:33.144422 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:04:33.145517 - Found $$INTRO.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/$$INTRO
+2023-08-06 05:04:33.146527 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/$$NOTE1
+2023-08-06 05:04:33.147521 - Found @FILE531.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/@FILE531
+2023-08-06 05:04:33.148565 - Found IGGCSIRX.rexx (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/IGGCSIRX
+2023-08-06 05:04:33.149469 - Found OBJSRC.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/OBJSRC
+2023-08-06 05:04:33.149480 - Found OBJSRCD.bin containing application/octet-stream, moved to PDS/OBJSRCD
+2023-08-06 05:04:33.150491 - Found OBJTXT.bin containing application/octet-stream, moved to PDS/OBJTXT
+2023-08-06 05:04:33.164832 - Found OSANALZ.xmi (application/xmit) in CBT.V505.FILE531.PDS
+2023-08-06 05:04:33.168449   - Received to CBT531/OSANALZ.REX
+2023-08-06 05:04:33.169543 - Found OSANALZ$.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/OSANALZ$
+2023-08-06 05:04:33.170480 - Found SVCSRCH.rexx (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/SVCSRCH
+2023-08-06 05:04:33.171462 - Found TCPIPLVL.rexx (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/TCPIPLVL
