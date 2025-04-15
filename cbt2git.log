@@ -1,15 +1,15 @@
-2025-04-15 03:16:03.544599 - Received CBT.V505.FILE531.PDS from FILE531.XMI 
-2025-04-15 03:16:03.546036 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/$$$#DATE
-2025-04-15 03:16:03.546393 - Found $$INTRO.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/$$INTRO
-2025-04-15 03:16:03.546725 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/$$NOTE1
-2025-04-15 03:16:03.546903 - Found @FILE531.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/@FILE531
-2025-04-15 03:16:03.547082 - Found IGGCSIRX.rexx (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/IGGCSIRX
-2025-04-15 03:16:03.547234 - Found OBJSRC.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/OBJSRC
-2025-04-15 03:16:03.547681 - Found OBJSRCD.bin (application/octet-stream) in CBT.V505.FILE531.PDS, moved to PDS/OBJSRCD
-2025-04-15 03:16:03.548099 - Found OBJTXT.bin (application/octet-stream) in CBT.V505.FILE531.PDS, moved to PDS/OBJTXT
-2025-04-15 03:16:03.548899 - Found OSANALZ.xmi (application/xmit) in CBT.V505.FILE531.PDS, moved to PDS/OSANALZ.xmi
-2025-04-15 03:16:03.564769 - Received SBGOLOB.OSANALZ.REX from OSANALZ.xmi 
-2025-04-15 03:16:03.565580 - Found SBGOLOB.OSANALZ.REX.bin (application/octet-stream), moved to OSANALZ/SBGOLOB.OSANALZ.REX
-2025-04-15 03:16:03.565958 - Found OSANALZ$.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/OSANALZ$
-2025-04-15 03:16:03.566254 - Found SVCSRCH.rexx (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/SVCSRCH
-2025-04-15 03:16:03.566547 - Found TCPIPLVL.rexx (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/TCPIPLVL
+2025-04-15 22:02:09.262306 - Received CBT.V505.FILE531.PDS from FILE531.XMI 
+2025-04-15 22:02:09.263468 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:02:09.263983 - Found $$INTRO.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/$$INTRO
+2025-04-15 22:02:09.264352 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/$$NOTE1
+2025-04-15 22:02:09.264439 - Found @FILE531.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/@FILE531
+2025-04-15 22:02:09.264707 - Found IGGCSIRX.rexx (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/IGGCSIRX
+2025-04-15 22:02:09.264934 - Found OBJSRC.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/OBJSRC
+2025-04-15 22:02:09.265539 - Found OBJSRCD.bin (application/octet-stream) in CBT.V505.FILE531.PDS, moved to PDS/OBJSRCD
+2025-04-15 22:02:09.266073 - Found OBJTXT.bin (application/octet-stream) in CBT.V505.FILE531.PDS, moved to PDS/OBJTXT
+2025-04-15 22:02:09.266973 - Found OSANALZ.xmi (application/xmit) in CBT.V505.FILE531.PDS, moved to PDS/OSANALZ.xmi
+2025-04-15 22:02:09.281140 - Received SBGOLOB.OSANALZ.REX from OSANALZ.xmi 
+2025-04-15 22:02:09.281992 - Found SBGOLOB.OSANALZ.REX.bin (application/octet-stream), moved to OSANALZ/SBGOLOB.OSANALZ.REX
+2025-04-15 22:02:09.282437 - Found OSANALZ$.txt (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/OSANALZ$
+2025-04-15 22:02:09.282719 - Found SVCSRCH.rexx (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/SVCSRCH
+2025-04-15 22:02:09.283014 - Found TCPIPLVL.rexx (text/plain) in CBT.V505.FILE531.PDS, moved to PDS/TCPIPLVL
